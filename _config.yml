@@ -27,8 +27,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Flash Engineering is a small Prototype Development shop based out of Baltimore.
   Come to us with your wildest design needs for a professional, personal experience.
   No project too big or too small.
-baseurl: "flasheng_blog1" # the subpath of your site, e.g. /blog
-url: "sudomatt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "flasheng_blog1" # the subpath of your site, e.g. /blog
+baseurl: "www.mattguenette.com"
+#url: "sudomatt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: jellotallica
 github_username:  sudomatt
